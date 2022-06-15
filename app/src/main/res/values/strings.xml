@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">routePunch</string>
+    <string name="title_activity_maps">打卡</string>
+</resources>
